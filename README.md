@@ -1,7 +1,11 @@
 # BREINY-RAIGOSA
 Estudiante de grado 11° Me considero una persona responsable, amable y perseverante. Me gusta aprender cosas nuevas, trabajar en equipo y esforzarme por cumplir mis metas.
-Sobre Mí: Soy estudiante de grado 11° y estoy terminando una etapa muy importante de mi vida. Me considero una persona responsable, amable, sociable y perseverante. Me gusta aprender cosas nuevas y compartir con las personas que me rodean. En mi tiempo libre me gusta escuchar música, compartir con mi familia y amigos y realizar actividades que me gustan. En el futuro quiero hacer una carrera relacionada con las Fuerzas Militares porque me llama la atención la disciplina, el servicio y los retos que implica. Me motiva pensar en mi futuro y saber que con esfuerzo puedo alcanzar las metas que me proponga.
-Formación Académica: Actualmente estoy cursando grado 11° en la Institución: I.E. El Chairá, y me encuentro en una etapa importante de mi formación escolar. Durante estos años he adquirido nuevos conocimientos, he aprendido a trabajar en equipo y he enfrentado diferentes retos académicos. Esta etapa me ha ayudado a ser más responsable y a prepararme para continuar mis estudios y alcanzar mis metas,
+
+Sobre Mí
+Soy estudiante de grado 11° y estoy terminando una etapa muy importante de mi vida. Me considero una persona responsable, amable, sociable y perseverante. Me gusta aprender cosas nuevas y compartir con las personas que me rodean. En mi tiempo libre me gusta escuchar música, compartir con mi familia y amigos y realizar actividades que me gustan. En el futuro quiero hacer una carrera relacionada con las Fuerzas Militares porque me llama la atención la disciplina, el servicio y los retos que implica. Me motiva pensar en mi futuro y saber que con esfuerzo puedo alcanzar las metas que me proponga.
+
+Formación Académica:
+Actualmente estoy cursando grado 11° en la Institución: I.E. El Chairá, y me encuentro en una etapa importante de mi formación escolar. Durante estos años he adquirido nuevos conocimientos, he aprendido a trabajar en equipo y he enfrentado diferentes retos académicos. Esta etapa me ha ayudado a ser más responsable y a prepararme para continuar mis estudios y alcanzar mis metas,
 Habilidades
 a) Habilidades blandas
 * Responsabilidad.
